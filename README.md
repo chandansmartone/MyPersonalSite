@@ -3,7 +3,7 @@
 <h1>Personal Portfolio Website - v0.1.0</h1>
 
 <h2>
-  <a href="https://chandankumarm.netlify.app">chandankumar.me</a>
+  <a href="https://chandankumar.tech">chandankumar.tech</a>
 </h2>
 
 <br/>
